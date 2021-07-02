@@ -1,0 +1,7 @@
+foreach
+printf
+tokenizer
+sum of ints in a line
+hashmat
+set operations
+chat client

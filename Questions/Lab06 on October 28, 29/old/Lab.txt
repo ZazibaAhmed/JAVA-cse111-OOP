@@ -1,0 +1,13 @@
+Solve Midterm question of 2011 Spring and Summer
+in the following order
+
+1)
+first all tracings (which may or may not include inheritance)
+
+2)
+then java code (exclude javacode writing requiring inheritance)
+
+3)
+then if you still have time, attempt the toughest tracings of \\TSR\Spring\CSE\Annajiat\CSE111\Labs\Lab06\CSE110 Labs
+
+4) Q/A based on students problems or for more practice, older questions are available at \\TSR\Spring\CSE\CSE111_MSA\Old Semesters

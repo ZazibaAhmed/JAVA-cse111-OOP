@@ -1,0 +1,30 @@
+set PATH=%PATH%;C:\Program Files (x86)\Java\jdk1.7.0_25\bin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If not works....
+SETX /M PATH "%PATH%;C:\your path with spaces"

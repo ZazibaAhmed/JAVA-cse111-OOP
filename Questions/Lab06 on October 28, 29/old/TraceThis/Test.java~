@@ -1,0 +1,10 @@
+public class Test{
+  public static void main(String [] args){
+    int x[] = {23};
+    B b1 = new B();
+    B b2 = new B(b1);
+    b2.methodA(3, 2);
+    b1.methodA(1, x);
+    
+  }
+}

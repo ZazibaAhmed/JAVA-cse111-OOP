@@ -1,0 +1,6 @@
+public interface StInterface{
+    public void setName();
+    public void setID();
+    public int getname();
+    public String getID();
+}

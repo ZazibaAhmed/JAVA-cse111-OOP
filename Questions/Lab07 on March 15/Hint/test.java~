@@ -1,0 +1,23 @@
+import java.util.*;
+class test{
+  
+  public void printten(int n){
+    if(n==1){
+      System.out.println(n);
+      return;
+    }
+    else{
+      printten(n-1);
+      System.out.println(n);
+    }
+    
+  }
+  
+  public static void main(String []avg){
+    int i=10;
+    printten(10);
+    
+    
+  }
+  
+}

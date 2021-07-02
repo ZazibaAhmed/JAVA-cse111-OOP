@@ -1,0 +1,33 @@
+STEP 1) Writing email
+TO:
+email address of your lab teacher
+if your lab teacher is Annajiat, write both annajiat@bracu.ac.bd and annajiat@gmail.com in the to field.
+
+
+CC:
+write your email address here. In this way, you will also receive a copy. You must download this copy and check if everything is alright as if you are the teacher.
+
+
+Subject:
+cse111 Lab01 09080706 Muhammad Java Hussain
+
+
+Body:
+Please find my lab 01 submission attached.
+I could not do Task 3 completely but I have attached what I have done.
+I could not do Task 4.
+
+
+Muhammad Java Hossain
+09080706 
+
+
+STEP 2) attach the ZIP file
+
+STEP 3) click send
+
+STEP 4) After few minutes check inbox. You will receive a copy of what you submitted to your lab teacher
+
+STEP 5) download the attachment
+
+STEP 6) now check each file if those files compile and run properly. if any of the files do not work, start over and send email again

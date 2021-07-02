@@ -1,0 +1,3 @@
+make this lab 1
+first tasks with numbers
+then tasks with stars

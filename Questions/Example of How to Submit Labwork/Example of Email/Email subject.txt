@@ -1,0 +1,13 @@
+Format:
+cse111 LabNO YourID YourFirstName MiddleName LastName
+
+Example:
+cse111 Lab01 09080605 Muhammad Hamza Hussain
+
+Note that
+there is no space between cse and 111
+there is no space between lab and 01
+except for cse111, everything else is separated by one single space
+when lab number is smaller than 10, add 0 infront of the lab number. For example, we wrote 01 instead of 1. However do not add any space in front of  10, 11 ... etc
+
+
